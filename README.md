@@ -1,2 +1,2 @@
 # Lunar-Client-Grabber
-My discord "_imerlin"
+My discord = qhiro
